@@ -1,4 +1,4 @@
-\#Storage Estimator
+\# Storage Estimator - Main Version
 
 
 
@@ -19,6 +19,4 @@ Enter storage in GB
 \##Output
 
 The program returns the storage in Megabyte
-
-
 
